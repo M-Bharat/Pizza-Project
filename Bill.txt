@@ -1,0 +1,35 @@
+
+------------------------------------------------------------------------------------------
+
+
+                                       Pizza Hut                                          
+
+
+                               PVP Shopping mall, Vijayawada                              
+
+
+------------------------------------------------------------------------------------------
+
+
+Name of the customer: Bharath
+
+contact Number      : 7893348801
+
+Mail ID             : mocherlabharath528@gmail.com
+
+__________________________________________________________________________________________
+
+
+Code          Category       Variant        Size           Crust          Price
+         
+__________________________________________________________________________________________
+
+4              Veg            Deluxe         Large          Pan            900            
+5              Veg            Supreme        Medium         Thin           600            
+51             Non-Veg        Supreme        Medium         Thin           700            
+58             Non-Veg        Tikka          Large          Pan            1050           
+
+--------------------------------------------------------------------------------------------
+
+
+Thank you for shopping with us and visit again!!
